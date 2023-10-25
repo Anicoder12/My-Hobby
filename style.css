@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+body
+{
+  text-align: center;
+  background-image: linear-gradient(to bottom, lightblue, lightcoral);
+}
+
+h1
+{
+  font-size: 50px;
+  font-family: 'Indie Flower';
+}
+
+ul
+{
+  font-family: 'Amatic SC';
+  font-size: 25px;
+  font-weight: 500px;
+}
+
+img
+{
+    width: 300px;
+    height: 300px;
+}
+
+h2
+{
+    font-family: 'Indie Flower';
+}
+
+p
+{
+    font-family: 'Amatic SC';
+    font-size: 20px;
+    font-weight: 500px;
+  }
+  
+#pic:hover
+{
+transform: scale(0.9);
+}  
